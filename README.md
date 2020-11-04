@@ -8,7 +8,7 @@
 #just open command prompt in windows and type
 
 #If linux open terminal and enter the below code
-
+cd Color-dector
 
 pip install -r requirements.txt
 
