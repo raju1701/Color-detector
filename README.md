@@ -17,3 +17,9 @@ pip install -r requirements.txt
 #Type 
 
 python color.py
+
+
+# Demo video 
+https://youtu.be/x7qNjQhow1w?sub_confirmation=1
+
+at the end if you like the video please like share and subscribe
